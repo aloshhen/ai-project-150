@@ -1,71 +1,20 @@
-# WEBSITE Project
+# Project
 
-> 🤖 Этот проект был автоматически сгенерирован с помощью AI Constructor Bot
+Generated with AI Constructor Bot
 
-## 📝 Описание
-
-**ИСХОДНЫЙ ЗАПРОС:**
-хочу стильный лендинг про крипту
-
-**УТОЧНЕНИЯ:**
-🧩 Какие ключевые блоки должны быть на лендинге?
-→ • Курсы криптовалют в реальном времени
-• Обзор популярных блокчейнов
-• Форма подписки на новости
-
-и еще
-
-🎨 Какой стиль дизайна предпочтителен?
-→ • Футуристичный с неоновыми элементами
-
-👥 Для кого предназначен лендинг?
-→ • Опытные трейдеры
-
-⚡ Какие интерактивные элементы нужны?
-→ • Анимированные графики
-
-
-
-## 🚀 Технологии
-
--
-
-## 📁 Структура проекта
-
-- `package.json`
-- `index.html`
-- `vite.config.js`
-- `tailwind.config.js`
-- `postcss.config.js`
-- `src/main.jsx`
-- `src/index.css`
-- `src/App.jsx`
-- `vercel.json`
-- `.gitignore`
-- `README.md`
-
-## 🛠️ Установка
+## Development
 
 ```bash
 npm install
-```
-
-## ▶️ Запуск
-
-```bash
-npm start
-# или
 npm run dev
 ```
 
-## 📋 План разработки
+## Build
 
-1.
+```bash
+npm run build
+```
 
-## 📄 Лицензия
+## Deploy
 
-MIT
-
-## 🤖 Создано с помощью
-
-[AI Constructor Bot](https://t.me/construct_ai_bot) - Telegram бот для автоматической генерации проектов с помощью AI
+Deployed automatically to Vercel via GitHub.
